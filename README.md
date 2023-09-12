@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Un nuevo inicio](https://ricardogottheil.com/un-nuevo-inicio/)
+- [Descubriendo el Widget Column y Widget Row en Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-column-y-widget-row-en-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
