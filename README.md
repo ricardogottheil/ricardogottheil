@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Diferencias entre material 2 y material 3 en flutter](https://www.ricardogottheil.com/diferencias-entre-material-2-y-material-3-en-flutter/)
 - [Descubriendo el Widget AppBar de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-appbar-de-flutter/)
 - [Descubriendo el Widget Container en Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-container-en-flutter/)
 - [Descubriendo el Widget Column y Widget Row en Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-column-y-widget-row-en-flutter/)
