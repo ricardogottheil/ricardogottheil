@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Descubriendo el Widget Image de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-image-de-flutter/)
 - [Descubriendo el Widget Scaffold de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-scaffold-de-flutter/)
 - [Descubriendo el Widget Icon de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-icon-de-flutter/)
 - [Descubriendo el Widget Text de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-text-de-flutter/)
-- [Maximizando Flutter: La Magia de las Extensions y Cómo Implementarlas](https://www.ricardogottheil.com/maximizando-flutter-la-magia-de-las-extensions-y-como-implementarlas/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
