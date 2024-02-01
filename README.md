@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Explorando el Universo de Dart: Guía sobre el Control del Flujo](https://www.ricardogottheil.com/explorando-el-universo-de-dart-guia-sobre-el-control-del-flujo/)
 - [Explorando el Universo de Dart: Una Guía Completa sobre Tipos de Datos](https://www.ricardogottheil.com/explorando-el-universo-de-dart-una-guia-completa-sobre-tipos-de-datos/)
 - [Descubriendo los Widgets Buttons de Flutter](https://www.ricardogottheil.com/descubriendo-los-widgets-buttons-de-flutter/)
 - [Descubriendo el Widget Image de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-image-de-flutter/)
-- [Descubriendo el Widget Scaffold de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-scaffold-de-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
