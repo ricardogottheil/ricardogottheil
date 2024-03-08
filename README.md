@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Explorando el Universo de Dart: Introducción a las clases](https://www.ricardogottheil.com/explorando-el-universo-de-dart-introduccion-a-las-clases/)
 - [Explorando el Universo de Dart: Tipos no tan comunes](https://www.ricardogottheil.com/explorando-el-universo-de-dart-tipos-no-tan-comunes/)
 - [Explorando el Universo de Dart: Manejo de Funciones](https://www.ricardogottheil.com/explorando-el-universo-de-dart-manejo-de-funciones/)
 - [Explorando el Universo de Dart: Guía sobre el Control del Flujo](https://www.ricardogottheil.com/explorando-el-universo-de-dart-guia-sobre-el-control-del-flujo/)
-- [Explorando el Universo de Dart: Una Guía Completa sobre Tipos de Datos](https://www.ricardogottheil.com/explorando-el-universo-de-dart-una-guia-completa-sobre-tipos-de-datos/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
