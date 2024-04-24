@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Descubriendo el Widget BottomNavigationBar de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-bottomnavigationbar-de-flutter/)
 - [Descubriendo el Widget Stack de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-stack-de-flutter/)
 - [Explorando el Universo de Dart: Documentación con Dartdoc](https://www.ricardogottheil.com/explorando-el-universo-de-dart-documentacion-con-dartdoc/)
 - [Explorando el Universo de Dart: Patrones de diseño](https://www.ricardogottheil.com/explorando-el-universo-de-dart-patrones-de-diseno/)
-- [Explorando el Universo de Dart: Introducción a las clases](https://www.ricardogottheil.com/explorando-el-universo-de-dart-introduccion-a-las-clases/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
