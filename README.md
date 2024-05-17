@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programar con Propósito: Principios de Código Limpio y Mantenible](https://www.ricardogottheil.com/programar-con-proposito-principios-de-codigo-limpio-y-mantenible/)
 - [Programar con Propósito: Dominio de Lenguajes de Programación](https://www.ricardogottheil.com/programar-con-proposito-dominio-de-lenguajes-de-programacion/)
 - [Programar con Propósito: Entender el Problema Antes de Codificar](https://www.ricardogottheil.com/programar-con-proposito-entender-el-problema-antes-de-codificar/)
 - [Programar con Propósito: Introducción a ser Programador Pragmático](https://www.ricardogottheil.com/programar-con-proposito-introduccion-a-ser-programador-pragmatico/)
-- [Descubriendo el Widget BottomNavigationBar de Flutter](https://www.ricardogottheil.com/descubriendo-el-widget-bottomnavigationbar-de-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
