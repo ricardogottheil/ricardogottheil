@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programar con Propósito: Control de Versiones y Colaboración](https://www.ricardogottheil.com/programar-con-proposito-control-de-versiones-y-colaboracion/)
 - [Programar con Propósito: Gestión Efectiva del Tiempo y la Productividad](https://www.ricardogottheil.com/programar-con-proposito-gestion-efectiva-del-tiempo-y-la-productividad/)
 - [Programar con Propósito: Principios de Código Limpio y Mantenible](https://www.ricardogottheil.com/programar-con-proposito-principios-de-codigo-limpio-y-mantenible/)
 - [Programar con Propósito: Dominio de Lenguajes de Programación](https://www.ricardogottheil.com/programar-con-proposito-dominio-de-lenguajes-de-programacion/)
-- [Programar con Propósito: Entender el Problema Antes de Codificar](https://www.ricardogottheil.com/programar-con-proposito-entender-el-problema-antes-de-codificar/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
