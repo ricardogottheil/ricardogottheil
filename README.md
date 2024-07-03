@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programar con Propósito: Depuración y Solución de Problemas](https://www.ricardogottheil.com/programar-con-proposito-depuracion-y-solucion-de-problemas/)
 - [Programar con Propósito: Testing y Calidad del Software](https://www.ricardogottheil.com/programar-con-proposito-testing-y-calidad-del-software/)
 - [Programar con Propósito: Control de Versiones y Colaboración](https://www.ricardogottheil.com/programar-con-proposito-control-de-versiones-y-colaboracion/)
 - [Programar con Propósito: Gestión Efectiva del Tiempo y la Productividad](https://www.ricardogottheil.com/programar-con-proposito-gestion-efectiva-del-tiempo-y-la-productividad/)
-- [Programar con Propósito: Principios de Código Limpio y Mantenible](https://www.ricardogottheil.com/programar-con-proposito-principios-de-codigo-limpio-y-mantenible/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
