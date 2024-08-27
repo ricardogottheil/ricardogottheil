@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Ricardo Gottheil</h1>
-<h3 align="center">Blogger, a totally self-taught person and developer. Systems Engineering student at EAFIT</h3>
+<h3 align="center">Blogger, a totally self-taught person and developer. Systems Engineering at EAFIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardogottheil&label=Profile%20views&color=0e75b6&style=flat" alt="ricardogottheil" /> </p>
 
